@@ -8,6 +8,9 @@ Welcome to the Taylor Swift Music Insights Dashboard project! This repository co
   
 ![Taylor Swift Music Insights Dashboard](Taylor-Swift-Songs-Dashboard.png)
 
+![Taylor Swift Music Insights Dashboard](taylorswiftdashboard2.png)
+
+
 ## Features
 - **Data Cleaning and Preparation**: Using Tableau Prep to clean and prepare the data.
 - **Interactive Dashboard**: Developed in Tableau, showcasing:
